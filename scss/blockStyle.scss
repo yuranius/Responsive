@@ -1,0 +1,38 @@
+.block {
+    padding: 100px 0px 0px 0px;
+}
+.page__block {
+}
+.block_one .block__body {
+    background-color: aqua;
+
+}
+
+.block_two .block__body {
+    background-color:chartreuse;
+}
+
+.block_three .block__body {
+    background-color:darkorange;
+}
+
+.block__conteiner {
+    max-width: 1200px;
+    padding: 0px 15px;
+    margin: 0px auto;
+}
+.block__body {
+    padding: 50px;
+
+}
+.block__title {
+    font-size: 30px;
+    line-height: 130%;
+    margin: 0px 0px 20px 0px;
+    cursor: pointer;
+}
+.block__text {
+    font-size: 18px;
+    line-height: 150%;
+}
+
