@@ -1,3 +1,3 @@
-# Git and Github Course
+# Git and Github Testing
 
 Всем привет!!!
